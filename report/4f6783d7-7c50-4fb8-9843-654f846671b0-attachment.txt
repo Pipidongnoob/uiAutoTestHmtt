@@ -1,0 +1,10 @@
+[32mINFO    [0m root:base.py:12 正在初始化driver:<selenium.webdriver.chrome.webdriver.WebDriver (session="058015b164206b46fcd68e2fe3ca5576")>
+[32mINFO    [0m root:page_mp_login.py:39 正在调用自媒体登录业务方法，用户名：13812345678 密码246811
+[32mINFO    [0m root:base.py:25 正在查找元素：('css selector', "[placeholder='请输入手机号']")
+[32mINFO    [0m root:base.py:40 正在对('css selector', "[placeholder='请输入手机号']")元素执行清空操作
+[32mINFO    [0m root:base.py:43 正在对('css selector', "[placeholder='请输入手机号']")元素执行输入操作
+[32mINFO    [0m root:base.py:52 正在对('css selector', '.el-button--primary')元素执行点击操作
+[32mINFO    [0m root:base.py:25 正在查找元素：('css selector', '.el-button--primary')
+[32mINFO    [0m root:base.py:12 正在初始化driver:<selenium.webdriver.chrome.webdriver.WebDriver (session="058015b164206b46fcd68e2fe3ca5576")>
+[32mINFO    [0m root:base.py:52 正在对('xpath', "//span[text()='内容管理']/..")元素执行点击操作
+[32mINFO    [0m root:base.py:25 正在查找元素：('xpath', "//span[text()='内容管理']/..")

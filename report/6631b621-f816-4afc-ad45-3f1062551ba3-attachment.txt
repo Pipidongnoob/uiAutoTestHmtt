@@ -1,0 +1,16 @@
+[32mINFO    [0m root:base.py:12 正在初始化driver:<selenium.webdriver.chrome.webdriver.WebDriver (session="08b42809f08688117eff97370c9fa207")>
+[32mINFO    [0m root:page_mp_login.py:33 正在调用自媒体登录业务方法，用户名：13812345678 密码246811
+[32mINFO    [0m root:base.py:25 正在查找元素：('css selector', "[placeholder='请输入手机号']")
+[32mINFO    [0m root:base.py:40 正在对('css selector', "[placeholder='请输入手机号']")元素执行清空操作
+[32mINFO    [0m root:base.py:43 正在对('css selector', "[placeholder='请输入手机号']")元素执行输入操作
+[32mINFO    [0m root:base.py:25 正在查找元素：('css selector', "[placeholder='验证码']")
+[32mINFO    [0m root:base.py:40 正在对('css selector', "[placeholder='验证码']")元素执行清空操作
+[32mINFO    [0m root:base.py:43 正在对('css selector', "[placeholder='验证码']")元素执行输入操作
+[32mINFO    [0m root:base.py:52 正在对('css selector', '.el-button--primary')元素执行点击操作
+[32mINFO    [0m root:base.py:25 正在查找元素：('css selector', '.el-button--primary')
+[32mINFO    [0m root:base.py:63 正在对('css selector', '.user-name')元素执行获取文本操作
+[32mINFO    [0m root:base.py:25 正在查找元素：('css selector', '.user-name')
+[1m[31mERROR   [0m root:test01_mp_login.py:34 断言出错，错误信息：Message: chrome not reachable
+  (Session info: chrome=87.0.4280.66)
+
+[1m[31mERROR   [0m root:base.py:69 断言错误，正在执行截图操作

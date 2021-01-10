@@ -1,0 +1,2 @@
+[32mINFO    [0m root:base.py:12 正在初始化driver:<selenium.webdriver.chrome.webdriver.WebDriver (session="8be7fb797fdba9c76d03ab9373db6985")>
+[32mINFO    [0m root:base.py:25 正在查找元素：('css selector', "[name='username]'")

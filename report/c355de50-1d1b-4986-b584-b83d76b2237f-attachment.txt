@@ -1,0 +1,45 @@
+[32mINFO    [0m root:base.py:12 正在初始化driver:<selenium.webdriver.chrome.webdriver.WebDriver (session="5ccecf2b25c7afd1f6d43f365fdba023")>
+[32mINFO    [0m root:page_mis_login.py:37 正在调用后台管理系统成功登录依赖方法，用户名：testid，密码：testpwd123
+[32mINFO    [0m root:base.py:25 正在查找元素：('css selector', "[name='username']")
+[32mINFO    [0m root:base.py:40 正在对('css selector', "[name='username']")元素执行清空操作
+[32mINFO    [0m root:base.py:43 正在对('css selector', "[name='username']")元素执行输入操作
+[32mINFO    [0m root:base.py:25 正在查找元素：('css selector', "[name='password']")
+[32mINFO    [0m root:base.py:40 正在对('css selector', "[name='password']")元素执行清空操作
+[32mINFO    [0m root:base.py:43 正在对('css selector', "[name='password']")元素执行输入操作
+[32mINFO    [0m root:base.py:52 正在对('css selector', '#inp1')元素执行点击操作
+[32mINFO    [0m root:base.py:25 正在查找元素：('css selector', '#inp1')
+[32mINFO    [0m root:base.py:12 正在初始化driver:<selenium.webdriver.chrome.webdriver.WebDriver (session="5ccecf2b25c7afd1f6d43f365fdba023")>
+[32mINFO    [0m root:page_mis_audit.py:63 正在调用审核文章业务方法，文章title:test001-bj001 channel:数据库
+[32mINFO    [0m root:base.py:52 正在对('xpath', "//*[text()='信息管理']/.")元素执行点击操作
+[32mINFO    [0m root:base.py:25 正在查找元素：('xpath', "//*[text()='信息管理']/.")
+[32mINFO    [0m root:base.py:52 正在对('xpath', "//*[text()='内容审核']/.")元素执行点击操作
+[32mINFO    [0m root:base.py:25 正在查找元素：('xpath', "//*[text()='内容审核']/.")
+[32mINFO    [0m root:base.py:25 正在查找元素：('css selector', "[placeholder='请输入: 文章名称']")
+[32mINFO    [0m root:base.py:40 正在对('css selector', "[placeholder='请输入: 文章名称']")元素执行清空操作
+[32mINFO    [0m root:base.py:43 正在对('css selector', "[placeholder='请输入: 文章名称']")元素执行输入操作
+[32mINFO    [0m root:base.py:25 正在查找元素：('css selector', "[placeholder='请输入: 频道']")
+[32mINFO    [0m root:base.py:40 正在对('css selector', "[placeholder='请输入: 频道']")元素执行清空操作
+[32mINFO    [0m root:base.py:43 正在对('css selector', "[placeholder='请输入: 频道']")元素执行输入操作
+[32mINFO    [0m root:web_base.py:14 正在调用web专属点击封装方法
+[32mINFO    [0m root:base.py:52 正在对('css selector', "[placeholder='请选择状态']")元素执行点击操作
+[32mINFO    [0m root:base.py:25 正在查找元素：('css selector', "[placeholder='请选择状态']")
+[32mINFO    [0m root:base.py:52 正在对('xpath', "//*[text()='待审核']")元素执行点击操作
+[32mINFO    [0m root:base.py:25 正在查找元素：('xpath', "//*[text()='待审核']")
+[32mINFO    [0m root:base.py:52 正在对('css selector', '.find')元素执行点击操作
+[32mINFO    [0m root:base.py:25 正在查找元素：('css selector', '.find')
+[32mINFO    [0m root:base.py:63 正在对('css selector', '.cell>span')元素执行获取文本操作
+[32mINFO    [0m root:base.py:25 正在查找元素：('css selector', '.cell>span')
+[32mINFO    [0m root:base.py:52 正在对('xpath', "//*[text()='通过']/..")元素执行点击操作
+[32mINFO    [0m root:base.py:25 正在查找元素：('xpath', "//*[text()='通过']/..")
+[32mINFO    [0m root:base.py:52 正在对('css selector', '.el-button--primary')元素执行点击操作
+[32mINFO    [0m root:base.py:25 正在查找元素：('css selector', '.el-button--primary')
+[32mINFO    [0m root:page_mis_audit.py:77 正在调用断言业务操作
+[32mINFO    [0m root:web_base.py:14 正在调用web专属点击封装方法
+[32mINFO    [0m root:base.py:52 正在对('css selector', "[placeholder='请选择状态']")元素执行点击操作
+[32mINFO    [0m root:base.py:25 正在查找元素：('css selector', "[placeholder='请选择状态']")
+[32mINFO    [0m root:base.py:52 正在对('xpath', "//*[text()='审核通过']")元素执行点击操作
+[32mINFO    [0m root:base.py:25 正在查找元素：('xpath', "//*[text()='审核通过']")
+[32mINFO    [0m root:base.py:52 正在对('css selector', '.find')元素执行点击操作
+[32mINFO    [0m root:base.py:25 正在查找元素：('css selector', '.find')
+[32mINFO    [0m root:web_base.py:26 正在调用查找页面是否存在指定元素：1347093830469419008方法
+[32mINFO    [0m root:base.py:25 正在查找元素：('xpath', '//*[text()=1347093830469419008]')

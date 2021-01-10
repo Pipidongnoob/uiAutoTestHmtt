@@ -1,0 +1,11 @@
+[32mINFO    [0m root:base.py:12 正在初始化driver:<selenium.webdriver.chrome.webdriver.WebDriver (session="1a3dd209c7c0077fc03f47c3b0ec55d6")>
+[32mINFO    [0m root:base.py:25 正在查找元素：('css selector', "[name='username']")
+[32mINFO    [0m root:base.py:40 正在对('css selector', "[name='username']")元素执行清空操作
+[32mINFO    [0m root:base.py:43 正在对('css selector', "[name='username']")元素执行输入操作
+[32mINFO    [0m root:base.py:25 正在查找元素：('css selector', "[name='password']")
+[32mINFO    [0m root:base.py:40 正在对('css selector', "[name='password']")元素执行清空操作
+[32mINFO    [0m root:base.py:43 正在对('css selector', "[name='password']")元素执行输入操作
+[32mINFO    [0m root:base.py:52 正在对('css selector', '#inp1')元素执行点击操作
+[32mINFO    [0m root:base.py:25 正在查找元素：('css selector', '#inp1')
+[32mINFO    [0m root:base.py:63 正在对('css selector', '.user_info')元素执行获取文本操作
+[32mINFO    [0m root:base.py:25 正在查找元素：('css selector', '.user_info')
